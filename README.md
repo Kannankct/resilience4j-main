@@ -1,2 +1,2 @@
-# resilience4j-main
-resilience4j-main
+# resilience4j
+resilience4j
